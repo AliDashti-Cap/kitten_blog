@@ -1,0 +1,35 @@
+@media (min-width: 1080px) {
+
+body > header {
+    flex-direction: row;
+}
+
+body > header ul {
+    align-items: center;
+}
+
+body > main {
+    flex-direction: row;
+}
+
+body > main > article {
+    margin-right: 64px;
+}
+
+p {
+    text-align: left;
+}
+
+hgroup {
+    text-align: left;
+}
+
+blockquote {
+    text-align: left;
+}
+
+li {
+    text-align: left;
+}
+
+}
